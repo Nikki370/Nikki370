@@ -1,5 +1,5 @@
 - 👋 Hi, I’m NIKITA
-- 👀 I’m tech enthusiast, exploring this field to deep dive my knowledge and want to learn more and explore.
+- 👀 I’m tech enthusiast, exploring this field to deepen my knowledge and want to learn more and explore.
 - 🌱 I’m in my first sem, currently learning python!
 - 😄 Pronouns: She/her
 
